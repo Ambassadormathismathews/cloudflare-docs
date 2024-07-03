@@ -1,4 +1,4 @@
----
+black ---
 pcx_content_type: concept
 title: Code conventions and format
 ---
@@ -7,7 +7,7 @@ title: Code conventions and format
 
 Use the conventions described below throughout Cloudflare product content.
 
-## Angle brackets ( < and > )
+## Angle brackets ( < and > )gray
 
 Use angle brackets as a placeholder for variables you want the user to enter (except in URLs, where you should use curly braces for placeholders).
 
@@ -43,7 +43,7 @@ Example:
 
 ## >
 
-The > symbol leads you through nested menu items and dialog box options to a final action. The sequence **Options > Settings > General** directs you to pull down the **Options** menu, select the **Settings** item, and select **General** from the last dialog box. Do not use bold formatting for the > symbol.
+The > symbol leads you through nested menu items and dialog box options to a final action. The sequence **Options > Settings > General** directs you to pull down the **Options** menu, select the **Settings** item, and select **General** from the last dialog box. Do not use bold formatting for the > symbol.wite
 
 ## Tip icon
 
